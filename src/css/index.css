@@ -1,0 +1,26 @@
+/**  Basic Page CSS **/
+body {
+  font-weight: 200;
+  background-color: #FFD700;
+}
+
+header a,
+footer a,.py-2, .ml-auto {
+  color: black;
+}
+
+footer {
+  font-size: 0.8em;
+}
+
+.bg-primary，.btn-primary{
+  background-color: #87CEFA !important;
+  :1.8em;
+  border: inherit;
+  
+}
+
+.btn-primary1{
+  background-color: rgb(155, 235, 155) !important;
+  border: inherit;
+}
