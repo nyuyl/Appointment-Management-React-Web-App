@@ -1,6 +1,6 @@
 # Appointment Managment Web Application
 
-This is a Managing Appointments Web App designed for a pediatrician who works at the Little Sunshine Pediatric Clinic. I have created a form that lets this app user add appointments, read a list of appointments from a file and also delete, modify, search, and sort those appointments.
+This is a Managing Appointments Web App designed for a pediatricians who works at the Little Sunshine Pediatric Clinic. I have created a form that lets this app user add appointments, read a list of appointments from a file and also delete, modify, search, and sort those appointments.
 I adopted React.js which is a JavaScript library for creating user interfaces that display dynamic data in this project. Additional libraries and frameworks that I used are Bootstrap, Lodash, Jquery and popper.js and the react-momentn for manipulating dates and times in JavaScript.
 
 ## Installing
